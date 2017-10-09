@@ -9,10 +9,10 @@ Bring Me Home combines Rekognition image recognition techniques, programmed wire
 
 ### Credits
 
-Image recognition: James Beswick, Rachel
-Backend: Alex Srisuwan
-Frontend: Elizabeth Funk
-Devices: Elaine Chan
+* Image recognition: James Beswick, Rachel
+* Backend: Alex Srisuwan
+* Frontend: Elizabeth Funk
+* Devices: Elaine Chan
 
 ### Architecture:
 
