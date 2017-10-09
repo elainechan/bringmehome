@@ -1,4 +1,4 @@
-# Bring Me Home: 
+# Bring Me Home 
 ### Crowdsourcing Pet Retrieval
 
 Cat escaped from the door? Dog ran away off-leash? Push a button or cry out loud, and Bring Me Home will automatically alert neighbors that your pet is missing. When someone finds your pet, you will be notified to arrange a pick-up.
@@ -7,21 +7,21 @@ In cases of missing persons, the sooner a search begins, the higher the likeliho
 
 Bring Me Home combines Rekognition image recognition techniques, programmed wireless Internet of Things (IoT) buttons, and intelligent assistant Alexa to implement a solution that increases the chances of retrieving a lost pet.
 
-# Credits
+### Credits
 
 Image recognition: James Beswick, Rachel
 Backend: Alex Srisuwan
 Frontend: Elizabeth Funk
 Devices: Elaine Chan
 
-# Architecture:
+### Architecture:
 
 * DynamoDB table, partition on `id`
 * 6 Functions (1 per Python file)
 * API Gateway fronts `Register` and `Found`
 * S3 Bucket
 
-# Follow-Ups:
+### Follow-Ups:
 
 * Alexa:
   * Report missing
@@ -32,7 +32,7 @@ Devices: Elaine Chan
 * Hardware:
   * Is my pet at home?
 
-# Workflow:
+### Workflow:
 
  1. Register:
 
