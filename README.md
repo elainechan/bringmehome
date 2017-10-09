@@ -21,7 +21,7 @@ Bring Me Home combines Rekognition image recognition techniques, programmed wire
 * API Gateway fronts `Register` and `Found`
 * S3 Bucket
 
-![alt text](/Users/Leo/Projects/bringmehome/architecture.png "Application Architecture")
+![alt](/Users/Leo/Projects/bringmehome/architecture.png)
 
 ### Follow-Ups:
 
